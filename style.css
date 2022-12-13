@@ -12,3 +12,15 @@
 section {
     padding-top: 5rem;
 }
+
+#about {
+    margin-top: 150px;
+}
+
+.gallery-img {
+    width: 100%;
+}
+
+#gallery .row > * {
+    padding: 0;
+}
